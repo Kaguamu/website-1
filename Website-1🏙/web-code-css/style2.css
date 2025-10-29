@@ -162,7 +162,6 @@ body{
     margin: 0 0 8px 0;
 }
 
-/* Mission section styling */
 .mission {
     background: black;
     padding: 48px 24px;
@@ -187,7 +186,6 @@ body{
     margin: 16px 0;
 }
 
-/* Our Services section */
 .services-section {
     background: black;
     border-radius: 16px;
@@ -455,4 +453,5 @@ footer {
         max-height: 160px;
     }
 }
+
 
