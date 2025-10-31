@@ -82,7 +82,7 @@ body, main, .mission, .services-section, .gallery, .containers > div {
     color: #1565c0;
 }
 
-/* Social icons styling */
+/* Social icons styling 
 .nav-list a i {    margin: 0 8px;
     margin: 0 8px; 
     color: #333;
@@ -94,7 +94,6 @@ body, main, .mission, .services-section, .gallery, .containers > div {
     color: #1976d2;
 }
 
-/* Contact button */
 .nav-list button {
     background: #1976d2;
     color: #fff;
@@ -284,8 +283,6 @@ body{
     transition: border-color 0.2s, box-shadow 0.2s;
 }
 
-
-/* Hero section for open space with background image */
 .hero-section {
     position: relative;
     width: 100vw;
@@ -453,5 +450,6 @@ footer {
         max-height: 160px;
     }
 }
+
 
 
