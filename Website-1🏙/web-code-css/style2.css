@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-/* Background image styling */
 .background-image {
     position: absolute;
     top: 0;
@@ -449,6 +448,7 @@ footer {
         max-height: 160px;
     }
 }
+
 
 
 
